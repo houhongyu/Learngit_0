@@ -7,3 +7,5 @@ They provide the author's own presentation experience for us.
 They emphasize the importance of presentations.
 
 git has a mutable index call stage....
+
+Creating a new branch is quick.
