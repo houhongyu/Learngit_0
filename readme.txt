@@ -8,4 +8,5 @@ They emphasize the importance of presentations.
 
 git has a mutable index call stage....
 
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
+
